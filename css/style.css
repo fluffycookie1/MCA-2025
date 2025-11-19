@@ -23,9 +23,13 @@
  } 
   
   h1 {
-  color: black;
+  color: Maroon;
   text align: centre;
   font-size: 50;
   padding: 14px 16px;
   text-decoration: none;
   } 
+
+p {
+ font-family: Arial, Georgia, Times New Roman;
+} 
