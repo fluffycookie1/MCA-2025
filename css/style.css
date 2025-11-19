@@ -21,4 +21,10 @@
   ul li a:hover {
   background-color:#6699ff
   
-
+  h1 {
+  color: black;
+  text align: centre;
+  font-size: 50;
+  padding: 14px 16px;
+  text-decoration: none;
+  } 
