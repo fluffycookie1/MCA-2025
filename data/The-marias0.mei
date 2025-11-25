@@ -5,6 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
+         <title>Heavy<titlePart type="subordinate">an electronic transcription</titlePart></title>
             <title type="main">The Marias</title>
             <title type="subordinate">Subtitle</title>
             <respStmt>
@@ -14,7 +15,6 @@
           <persName role="lyricist">Josh Conway, Maria Zardoya</persName>
         </lyricist>
          </titleStmt>
-		 <title>Heavy<titlePart type="subordinate">an electronic transcription</titlePart></title>
          <pubStmt>
 	   <publisher>
       <corpName role="publisher" codedval="5115204-6" auth.uri="http://d-nb.info/gnd/" auth="GND">Universal Music Publishing Group</corpName>
