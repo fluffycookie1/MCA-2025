@@ -1,7 +1,7 @@
 <html>
   <!--Version 1.0-->
 <head>
-  <title>My Piece</title>
+  <title>myMeta.html</title>
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/myMeta.css" media="all" />
   <link rel="stylesheet" href="css/style.css" media="all" />
@@ -16,7 +16,7 @@
         const app = new Verovio.App(document.getElementById("app"), {});
 
     // Load a file (MEI or MusicXML)
-    fetch("data/example2.mei")
+    fetch("data/The-marias1.mei")
         .then(function(response) {
             return response.text();
         })
@@ -37,7 +37,7 @@
         mei: "http://www.music-encoding.org/ns/mei"
       }
     })
-    CETEI4MEI.getHTML5("data/example2.mei", function(data) {
+    CETEI4MEI.getHTML5("data/The-marias1.mei", function(data) {
       // get header
       var meiHead = data.querySelector('mei-meiHead')
       document.getElementById("MEImeta").appendChild(meiHead)
