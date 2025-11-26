@@ -1806,15 +1806,15 @@ tei-zone {
 }
 
 mei-title[type="subordinate"] {
-  font-size: 18pt;
+  font-size: 22pt;
   font-variant-caps: small-caps;
   margin-top: -0.5em;
 }
 
 mei-filedesc > mei-titlestmt > mei-title {
-  color: #595b66;
+  color: #9966ff;
   display: block;
-  font-size: 24pt;
+  font-size: 26pt;
 }
 
 mei-filedesc > mei-titlestmt > mei-respstmt {
