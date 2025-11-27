@@ -35,7 +35,8 @@ p {
 } 
 
 <!----Table for week 4---->
-
+<html>
+<head>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -53,3 +54,4 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
+</head>
