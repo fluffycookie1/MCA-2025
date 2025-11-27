@@ -48,18 +48,18 @@ table {
     text-align: center;
     font-family: tahoma;
     font-weight: 500;
-    color: #003399;
+    color: #bf4080;
   }
 
   th {
-    background-color: LemonChiffon;
+    background-color: #ffe6ff;
     text-align: left;
     font-weight: bold;
-    color: #003399;
+    color: #bf4080;
   }
 
   th[rowspan], th:first-child {
-    background-color: LemonChiffon;
+    background-color: #ffe6ff;
     text-align: left;
     font-weight: bold;
   }
