@@ -22,17 +22,8 @@
   background-color:#6699ff
  } 
   
-  h1 {
-  color: Maroon;
-  text align: centre;
-  font-size: 50;
-  padding: 14px 16px;
-  text-decoration: none;
-  } 
 
-p {
- font-family: Arial, Georgia, Times New Roman;
-} 
+
 
 <!----Week 4 Table---->
 
@@ -64,4 +55,25 @@ table {
     font-weight: bold;
   }
 
+
+p {
+ font-family: Arial, Georgia, Times New Roman;
+} 
+
+
+  h1 {
+  color: Maroon;
+  text align: centre;
+  font-size: 50;
+  padding: 14px 16px;
+  text-decoration: none;
+  } 
+
+h2 {
+  color: #6666ff;
+  text align: centre;
+  font-size: 20;
+  padding: 14px 16px;
+  text-decoration: none;
+  } 
 
