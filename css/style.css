@@ -109,3 +109,14 @@ h5 {
   padding: 14px 16px;
   text-decoration: none;
   } 
+
+
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 50%;
+} 
